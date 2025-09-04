@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+
+# Model artifacts
+/model/*.pkl
+/model/*.joblib
+/model/*.bin
+/model/*.json
+
+# VSCode
+.vscode/
